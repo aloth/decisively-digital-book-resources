@@ -2,13 +2,13 @@
 
 This repository contains supplementary material for the book "Decisively Digital" by Alexander Loth.
 
-![Book Cover](https://www.alexloth.com/wp-content/uploads/2021/05/Decisively-Digital-3d-Hard.png)
+![Book Cover](https://alexloth.com/wp-content/uploads/2021/05/Decisively-Digital-3d-Hard.png)
 
 ## About the Book
 
 "Decisively Digital" is a comprehensive guide to mastering digital strategy and transformation in business. From creating a digital culture to designing strategy, this book provides valuable insights and practical examples from 24 leaders of the digital revolution. Whether you're a business leader, manager, or aspiring digital strategist, this book offers essential knowledge to thrive in the digital age.
 
-For more information about the book, visit the [official book website](https://www.alexloth.com/decisively-digital/).
+For more information about the book, visit the [official book website](https://alexloth.com/decisively-digital).
 
 ## Repository Contents
 
@@ -39,7 +39,7 @@ Although this is primarily a resource repository, we welcome contributions that 
 
 ## Contact
 
-For questions about the book or this repository, please open an [issue](https://github.com/aloth/decisively-digital-book-resources/issues) or contact Alexander Loth via [his website](https://www.alexloth.com).
+For questions about the book or this repository, please open an [issue](https://github.com/aloth/decisively-digital-book-resources/issues) or contact Alexander Loth via [his website](https://alexloth.com).
 
 ---
 
