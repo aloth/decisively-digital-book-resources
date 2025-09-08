@@ -1,13 +1,14 @@
 # The Official Strategic Toolkit for "Decisively Digital"
 
-![Book Cover](https://alexloth.com/wp-content/uploads/2021/05/Decisively-Digital-3d-Hard.png)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Companion Website](https://img.shields.io/badge/Companion%20Site-alexloth.com-blue)](https://alexloth.com/decisively-digital/)
+[![Follow on X](https://img.shields.io/twitter/follow/DcyDigital?style=social)](https://x.com/DcyDigital)
 
-This repository contains the official strategic frameworks and supplementary resources for the book **"Decisively Digital: From Creating a Culture to Designing Strategy"** by Alexander Loth. These tools are designed to help you translate the book's powerful insights into actionable strategies for your organization.
+> This repository contains the official strategic frameworks and supplementary resources for the book **"Decisively Digital: From Creating a Culture to Designing Strategy"** by Alexander Loth. These tools are designed to help you translate the book's powerful insights into actionable strategies for your organization.
 
-[![Companion Website](https://img.shields.io/badge/Companion%20Website-alexloth.com-blue)](https://alexloth.com/decisively-digital)
-[![Follow @DcyDigital on X](https://img.shields.io/twitter/follow/DcyDigital?style=social)](https://x.com/DcyDigital)
-[![Follow @xlth on X](https://img.shields.io/twitter/follow/xlth?style=social)](https://x.com/xlth)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexander%20Loth-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/alexanderloth/)
+<p align="center">
+  <img src="https://alexloth.com/wp-content/uploads/2021/05/Decisively-Digital-3d-Hard.png" alt="Teach Yourself VISUALLY Power BI book cover" width="420" />
+</p>
 
 ## About the Book: Mastering the Digital Revolution
 
@@ -65,17 +66,22 @@ The frameworks provided here are not isolated tools; they form a cohesive system
 By using these frameworks in concert, you can move from high-level vision to detailed, actionable planning.
 
 ## Citation
+
 If you are using the concepts or frameworks from "Decisively Digital" in your academic or research work, please use the following BibTeX entry to cite the book:
 
 ```bibtex
-@book{Loth2021,
-  author    = {Alexander Loth},
-  title     = {Decisively Digital: From Creating a Culture to Designing Strategy},
-  publisher = {Wiley},
-  year      = {2021},
-  isbn      = {9781119737285}
+@book{loth_2021_digitalstrategy,
+	title        = {Decisively Digital: From Creating a Culture to Designing Strategy},
+	shorttitle   = {Decisively Digital},
+	author       = {Loth, Alexander},
+	year         = {2021},
+	publisher    = {John Wiley \& Sons, Inc.},
+	isbn         = {978-1-119-73728-5},
+	url          = {https://alexloth.com/decisively-digital/}
 }
 ```
+
+You can also link the companion site: [https://alexloth.com/decisively-digital/](https://alexloth.com/decisively-digital/).
 
 ## Join the Community & Contribute
 
@@ -87,7 +93,12 @@ This repository is a living resource for the "Decisively Digital" community. You
 
 ## About the Author
 
-**Alexander Loth** is a digital strategist with a background in computational nuclear research. For more than 12 years, he has advised leading companies on their digital transformation journeys. He currently serves as an executive advisor at Microsoft and is a co-founder of the fintech advisory Futura Analytics. Alexander holds an MBA from the Frankfurt School of Finance & Management, where he also lectures on the subject of the Digital Society.
+**Alexander Loth** is a Data Scientist and Digital Strategist with over 15 years of experience in AI, Data & Cloud.  
+His career began at CERN and includes leadership roles at Microsoft, Tableau, and SAP. Today, he advises companies and organizations on their digital transformation journeys and is the author of several bestselling books.
+
+[![Website](https://img.shields.io/badge/Website-alexloth.com-blue?style=flat-square)](https://alexloth.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aloth-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aloth/)
+[![X (Twitter)](https://img.shields.io/badge/Follow-@xlth-black?style=flat-square&logo=x)](https://x.com/xlth)
 
 ## License
 
