@@ -10,6 +10,10 @@
   <img src="https://alexloth.com/wp-content/uploads/2021/05/Decisively-Digital-3d-Hard.png" alt="Teach Yourself VISUALLY Power BI book cover" width="420" />
 </p>
 
+**Buy the book:** [Wiley](https://www.wiley.com/en-us/Decisively+Digital%3A+From+Creating+a+Culture+to+Designing+Strategy-p-9781119737292) · [Amazon](https://www.amazon.com/Decisively-Digital-Creating-Designing-Strategy-ebook/dp/B0965X1C2Z) · More info on the [companion site](https://alexloth.com/decisively-digital/)
+
+---
+
 ## About the Book: Mastering the Digital Revolution
 
 "Decisively Digital" is a comprehensive guide to mastering digital strategy and transformation in the modern business landscape. The book leverages practical examples and incisive interviews with 24 leaders from the vanguard of the digital revolution—including experts from **Microsoft, Google, Salesforce, and AWS**—to provide a clear roadmap for success.
@@ -23,6 +27,16 @@ The book is structured into six core parts, guiding you from foundational strate
 * **Part V: Artificial Intelligence:** Explores how intelligent agents can take actions that maximize the chance of successfully achieving your business goals.
 * **Part VI: Process Automation, Blockchain, and IoT:** Investigates how the integration of the physical world into computer-based systems drives efficiency, economic benefits, and reduced human exertion.
 
+---
+
+## 🎁 Exclusive Partner Offers
+
+As a reader of "Decisively Digital," you also get access to exclusive offers from our partners, designed to help you deepen your learning experience.
+
+➡️ **[View All Exclusive Partner Offers](./EXCLUSIVE_OFFERS.md)**
+
+---
+
 ## The Frameworks: Your Strategic Resources
 
 This repository contains the key visual frameworks and templates discussed throughout "Decisively Digital." Each resource is designed to be a practical tool for workshops, presentations, and strategic planning sessions.
@@ -35,6 +49,7 @@ This repository contains the key visual frameworks and templates discussed throu
 | 🤝 **Collaboration Framework** <br/> [Download](./Collaboration%20Framework.pptx)   | A template for defining which communication and collaboration tools to use for different audiences and levels of urgency, based on the Microsoft 365 ecosystem. | **Chapter 6**, Figure 6.1       |
 | 📊 **Data Strategy** <br/> [Download](./Data%20Strategy.pptx)                      | A model outlining the three core elements of a successful data strategy: Big Data, Analytics, and Decision-Support Tools.                                   | **Chapter 17**, Figure 17.1     |
 
+---
 
 ## Getting Started: How to Use These Resources
 
@@ -54,6 +69,8 @@ git clone [https://github.com/aloth/decisively-digital-book-resources.git](https
 cd decisively-digital-book-resources
 ```
 
+---
+
 ## Connecting the Frameworks: A Unified Approach
 
 The frameworks provided here are not isolated tools; they form a cohesive system for building and executing a robust digital strategy, as detailed in the book. They are designed to be used together in a logical progression:
@@ -64,6 +81,8 @@ The frameworks provided here are not isolated tools; they form a cohesive system
 4.  **Deep Dive into Key Areas:** Once your high-level strategy is mapped out, use the **Collaboration Framework** and the **Data Strategy** model as specialized templates to detail the execution plans for these critical components of modern digital transformation.
 
 By using these frameworks in concert, you can move from high-level vision to detailed, actionable planning.
+
+---
 
 ## Citation
 
@@ -83,6 +102,8 @@ If you are using the concepts or frameworks from "Decisively Digital" in your ac
 
 You can also link the companion site: [https://alexloth.com/decisively-digital/](https://alexloth.com/decisively-digital/).
 
+---
+
 ## Join the Community & Contribute
 
 This repository is a living resource for the "Decisively Digital" community. Your feedback and contributions are highly valued and help improve these tools for everyone.
@@ -90,6 +111,8 @@ This repository is a living resource for the "Decisively Digital" community. You
 * **Have a suggestion?** If you have an idea to improve a framework or add a new resource, please [**open an issue**](https://github.com/aloth/decisively-digital-book-resources/issues) to start a discussion.
 * **Find an error?** If you spot a typo or an error in the materials, please let us know by opening an issue.
 * **Share your adaptation:** Have you adapted one of these frameworks for a specific industry (e.g., healthcare, manufacturing, finance)? Consider sharing your version by submitting a pull request.
+
+---
 
 ## About the Author
 
@@ -100,6 +123,14 @@ His career began at CERN and includes leadership roles at Microsoft, Tableau, an
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aloth-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aloth/)
 [![X (Twitter)](https://img.shields.io/badge/Follow-@xlth-black?style=flat-square&logo=x)](https://x.com/xlth)
 
+---
+
 ## License
 
 The content in this repository is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). You are free to share and adapt these materials for any purpose, even commercially, as long as you give appropriate credit and distribute your contributions under the same license.
+
+---
+
+> ⭐ If these resources help you, consider **starring** the repo and following the social links above to get updates and share your work!
+> 
+
