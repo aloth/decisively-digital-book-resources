@@ -1,6 +1,6 @@
 # The Official Strategic Toolkit for "Decisively Digital"
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 [![Companion Website](https://img.shields.io/badge/Companion%20Site-alexloth.com-blue)](https://alexloth.com/decisively-digital/)
 [![Follow on X](https://img.shields.io/twitter/follow/DcyDigital?style=social)](https://x.com/DcyDigital)
 
@@ -110,7 +110,7 @@ This repository is a living resource for the "Decisively Digital" community. You
 
 * **Have a suggestion?** If you have an idea to improve a framework or add a new resource, please [**open an issue**](https://github.com/aloth/decisively-digital-book-resources/issues) to start a discussion.
 * **Find an error?** If you spot a typo or an error in the materials, please let us know by opening an issue.
-* **Share your adaptation:** Have you adapted one of these frameworks for a specific industry (e.g., healthcare, manufacturing, finance)? Consider sharing your version by submitting a pull request.
+* **Share your adaptation:** Have you adapted one of these frameworks for a specific industry (e.g., healthcare, manufacturing, finance)? Consider sharing your version by opening an issue.
 
 ---
 
@@ -127,10 +127,11 @@ His career began at CERN and includes leadership roles at Microsoft, Tableau, an
 
 ## License
 
-The content in this repository is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). You are free to share and adapt these materials for any purpose, even commercially, as long as you give appropriate credit and distribute your contributions under the same license.
+This work is licensed under a [Creative Commons Attribution 4.0 International License](LICENSE).
+
+[![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](LICENSE).
 
 ---
 
 > ⭐ If these resources help you, consider **starring** the repo and following the social links above to get updates and share your work!
 > 
-
