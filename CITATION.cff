@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this book in your research, please cite it as below."
+type: book
+title: "Decisively Digital: From Creating a Culture to Designing Strategy"
+authors:
+  - family-names: Loth
+    given-names: Alexander
+    orcid: https://orcid.org/0000-0003-4157-7557
+date-released: 2021-06-29
+year: 2021
+publisher:
+  name: Wiley
+  city: Hoboken, NJ
+isbn: 978-1-119-73728-5
+url: https://alexloth.com/decisively-digital/
+repository-code: https://github.com/aloth/decisively-digital-book-resources
+keywords:
+  - digital strategy
+  - digital transformation
+  - business strategy
+  - digital culture
+license: CC-BY-4.0

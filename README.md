@@ -89,14 +89,15 @@ By using these frameworks in concert, you can move from high-level vision to det
 If you are using the concepts or frameworks from "Decisively Digital" in your academic or research work, please use the following BibTeX entry to cite the book:
 
 ```bibtex
-@book{loth_2021_digitalstrategy,
-	title        = {Decisively Digital: From Creating a Culture to Designing Strategy},
-	shorttitle   = {Decisively Digital},
-	author       = {Loth, Alexander},
-	year         = {2021},
-	publisher    = {John Wiley \& Sons, Inc.},
-	isbn         = {978-1-119-73728-5},
-	url          = {https://alexloth.com/decisively-digital/}
+@book{loth2021decisively,
+  title      = {Decisively Digital: From Creating a Culture to Designing Strategy},
+  shorttitle = {Decisively Digital},
+  author     = {Loth, Alexander},
+  year       = {2021},
+  publisher  = {Wiley},
+  address    = {Hoboken, NJ},
+  isbn       = {978-1-119-73728-5},
+  url        = {https://alexloth.com/decisively-digital/}
 }
 ```
 
