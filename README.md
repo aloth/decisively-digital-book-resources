@@ -109,9 +109,11 @@ You can also link the companion site: [https://alexloth.com/decisively-digital/]
 
 This repository is a living resource for the "Decisively Digital" community. Your feedback and contributions are highly valued and help improve these tools for everyone.
 
-* **Have a suggestion?** If you have an idea to improve a framework or add a new resource, please [**open an issue**](https://github.com/aloth/decisively-digital-book-resources/issues) to start a discussion.
-* **Find an error?** If you spot a typo or an error in the materials, please let us know by opening an issue.
-* **Share your adaptation:** Have you adapted one of these frameworks for a specific industry (e.g., healthcare, manufacturing, finance)? Consider sharing your version by opening an issue.
+Use our issue templates to get in touch:
+
+* 📖 **[Report an Erratum](https://github.com/aloth/decisively-digital-book-resources/issues/new?template=erratum.yml)** — errors in the book or materials
+* ❓ **[Ask a Question](https://github.com/aloth/decisively-digital-book-resources/issues/new?template=question.yml)** — questions about chapters, frameworks, or examples
+* 💻 **[Report a Code Issue](https://github.com/aloth/decisively-digital-book-resources/issues/new?template=code-issue.yml)** — problems with companion files
 
 ---
 
