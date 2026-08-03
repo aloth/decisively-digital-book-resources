@@ -3,6 +3,7 @@
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 [![Companion Website](https://img.shields.io/badge/Companion%20Site-alexloth.com-blue)](https://alexloth.com/decisively-digital/)
 [![Follow on X](https://img.shields.io/twitter/follow/DcyDigital?style=social)](https://x.com/DcyDigital)
+[![24 Digital Leaders](https://img.shields.io/badge/Interviews-24_Digital_Leaders-1F4E79)](#about-the-book-mastering-the-digital-revolution)
 
 > This repository contains the official strategic frameworks and supplementary resources for the book **"Decisively Digital: From Creating a Culture to Designing Strategy"** by Alexander Loth. These tools are designed to help you translate the book's powerful insights into actionable strategies for your organization.
 
