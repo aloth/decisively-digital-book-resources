@@ -11,7 +11,7 @@
   <img src="https://alexloth.com/wp-content/uploads/2021/05/Decisively-Digital-3d-Hard.png" alt="Teach Yourself VISUALLY Power BI book cover" width="420" />
 </p>
 
-**Buy the book:** [Wiley](https://www.wiley.com/en-us/Decisively+Digital%3A+From+Creating+a+Culture+to+Designing+Strategy-p-9781119737292) · [Amazon](https://www.amazon.com/Decisively-Digital-Creating-Designing-Strategy-ebook/dp/B0965X1C2Z) · More info on the [companion site](https://alexloth.com/decisively-digital/)
+**Buy the book:** [alexloth.com/decisively-digital](https://alexloth.com/decisively-digital/) · also at [Wiley](https://www.wiley.com/en-us/Decisively+Digital%3A+From+Creating+a+Culture+to+Designing+Strategy-p-9781119737292) and [Amazon](https://www.amazon.com/Decisively-Digital-Creating-Designing-Strategy-ebook/dp/B0965X1C2Z)
 
 ---
 
@@ -27,14 +27,6 @@ The book is structured into six core parts, guiding you from foundational strate
 * **Part IV: Big Data Processing and Cloud Computing:** Examines the essential methods for retrieving, storing, and processing vast amounts of data to generate value.
 * **Part V: Artificial Intelligence:** Explores how intelligent agents can take actions that maximize the chance of successfully achieving your business goals.
 * **Part VI: Process Automation, Blockchain, and IoT:** Investigates how the integration of the physical world into computer-based systems drives efficiency, economic benefits, and reduced human exertion.
-
----
-
-## 🎁 Exclusive Partner Offers
-
-As a reader of "Decisively Digital," you also get access to exclusive offers from our partners, designed to help you deepen your learning experience.
-
-➡️ **[View All Exclusive Partner Offers](./EXCLUSIVE_OFFERS.md)**
 
 ---
 
@@ -104,6 +96,8 @@ If you are using the concepts or frameworks from "Decisively Digital" in your ac
 ```
 
 You can also link the companion site: [https://alexloth.com/decisively-digital/](https://alexloth.com/decisively-digital/).
+
+GitHub also reads `CITATION.cff` in this repository, so the **Cite this repository** button in the sidebar produces the same reference with the author ORCID attached.
 
 ---
 
