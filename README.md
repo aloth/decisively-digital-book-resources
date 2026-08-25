@@ -15,6 +15,15 @@
 
 ---
 
+## Who this is for
+
+* **Executives & decision-makers** setting digital direction for an organization.
+* **Strategy & transformation leads** who need frameworks they can take into a workshop.
+* **Data and technology practitioners** connecting day-to-day work to a wider strategy.
+* **Anyone** shaping digital culture, strategy or analytics - no technical background required.
+
+---
+
 ## About the Book: Mastering the Digital Revolution
 
 "Decisively Digital" is a comprehensive guide to mastering digital strategy and transformation in the modern business landscape. The book leverages practical examples and incisive interviews with 24 leaders from the vanguard of the digital revolution—including experts from **Microsoft, Google, Salesforce, and AWS**—to provide a clear roadmap for success.
