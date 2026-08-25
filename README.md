@@ -96,9 +96,10 @@ If you are using the concepts or frameworks from "Decisively Digital" in your ac
   author     = {Loth, Alexander},
   year       = {2021},
   publisher  = {Wiley},
-  address    = {Hoboken, NJ},
+  address    = {Hoboken, NJ, USA},
   isbn       = {978-1-119-73728-5},
-  url        = {https://alexloth.com/decisively-digital/}
+  url        = {https://alexloth.com/decisively-digital/},
+  urldate    = {2026-08-25}
 }
 ```
 
